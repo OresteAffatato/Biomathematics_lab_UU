@@ -6,6 +6,6 @@ It is an introduction level lab of Mathematical modelling applied to Biology, wi
 
 The file Biomathematics_handout.pdf is the main text of the lab. It is suggested to read through it and complete the exercises at the end of each chapter. 
 
-To create the datasets, run the packages and do the analyses I used R version 4.2.1
+To run the packages and do the analyses and simulations I used R version 4.2.1
 
 Any suggestion to improve this lab is more than welcome! 😎
